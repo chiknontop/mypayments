@@ -1,0 +1,2 @@
+discord.py-self==2.0.0
+pystyle==2.9
